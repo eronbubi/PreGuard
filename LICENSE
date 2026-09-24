@@ -1,0 +1,36 @@
+PreGuard License
+
+Copyright (c) 2026 Eron Girgin (github.com/eronbubi). All rights reserved.
+
+1. Permitted use
+   You may download PreGuard, both the released program and this source code,
+   and use it free of charge on any number of your own computers, for private
+   or commercial purposes. You may read the source code and build it for your
+   own use.
+
+2. Not permitted
+   Without prior written permission from the copyright holder, you may not:
+   a) modify, translate or adapt PreGuard or its source code, or create
+      derivative works based on it, except to build it unchanged for your own
+      use;
+   b) publish, redistribute, sell, sublicense, rent or otherwise make PreGuard
+      available to others, whether modified or unmodified, including through
+      re-uploads, mirrors, download sites or bundles with other software;
+   c) remove or change this license or any copyright notice.
+
+   To share PreGuard, link to the official repository:
+   https://github.com/eronbubi/PreGuard
+
+3. GitHub
+   Viewing this repository and forking it on github.com are governed by the
+   GitHub Terms of Service. A fork on GitHub grants no rights beyond those in
+   this license.
+
+4. No warranty
+   PreGuard is provided "as is", without warranty of any kind, express or
+   implied. PreGuard does not guarantee that it detects every harmful file.
+   The copyright holder is not liable for any damage or data loss resulting
+   from the use of PreGuard, including files it locks, releases or deletes.
+
+5. Termination
+   Any violation of this license ends your right to use PreGuard.

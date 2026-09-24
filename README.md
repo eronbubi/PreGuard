@@ -40,3 +40,7 @@ The build uses the C# compiler that ships with Windows (.NET Framework 4.8), so 
 - Log: `%LOCALAPPDATA%\PreGuard\protokoll.txt` (also available from the tray menu under "Protokoll öffnen")
 - Pending files: `%LOCALAPPDATA%\PreGuard\gesperrt.txt`
 - Turn autostart off: use the "Mit Windows starten" entry in the tray menu, or run `PreGuard.exe --remove-autostart`
+
+## License
+
+You may download PreGuard and use it for free. You may not modify it or redistribute it, modified or unmodified; to share it, link to this repository. See [LICENSE](LICENSE) for details.
